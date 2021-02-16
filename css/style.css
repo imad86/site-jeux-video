@@ -1,0 +1,19 @@
+body {
+	/* font-family: 'Roboto', sans-serif; */
+	background-image: url(../images/overlay.png);
+	cursor: default;
+}
+
+.logo {
+	font-family: 'Caveat', cursive;
+	font-size: 1.5em;
+}
+
+body > .container {
+	margin-top: 62px;
+	background-color: #F2F2F2;
+}
+
+footer h4 {
+	font-size: 1.2em
+}
